@@ -1,3 +1,9 @@
-# forkify Project
+"Forkify" - recipe application with custom recipe uploads. Search/bookmark/upload recipes.
 
-Recipe application with custom recipe uploads.
+- Forkify API
+- MVC architecture
+- Parcel
+
+A project from The complete JavaScript course, Jonas Schmedtmann.
+
+![Forkify](https://user-images.githubusercontent.com/125043957/225029348-0bace6cc-1852-47a4-a155-67ba1fa1f524.png)

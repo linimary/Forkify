@@ -1,4 +1,4 @@
-"Forkify" - recipe application with custom recipe uploads. Search/bookmark/upload recipes.
+"Forkify" - recipe application with custom recipe uploads. Search/bookmark/upload recipes
 
 - Forkify API
 - MVC architecture
